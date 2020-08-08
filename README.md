@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Going to try and make a forecasting webapp with this.
+
 ## Available Scripts
 
 In the project directory, you can run:
