@@ -3,3 +3,16 @@ body {
   color: #343434;
   font-family: serif;
 }
+
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 500px;
+  align-items: center;
+}
+
+.btn {
+  grid-column: span 2;
+  width: 50%;
+  justify-self: center;
+}
