@@ -1,6 +1,49 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# _Forecasting app_
 
-Going to try and make a forecasting webapp with this.
+#### _Webapp that will help with forecasting wait time in the queue_
+
+#### By _**Philip Eskins**_
+
+## Description
+
+_This webapp was created to help assist with assisting how to better forecast how much time a customer is exptected to wait tell we can get a crew out to them._
+
+## Process
+
+#### 8/10/2020
+_Started building the framework for v1.0 in html, can be found in the html folder._
+
+#### 8/7/2020
+_Ran create-react-app to get the project started_
+
+## Setup/Installation Requirements
+
+* _Download repository from https://github.com/PhilipEskins/forecasting/_
+* _Type npm install from the command line interface_
+* _Type npm run start from the command line interface_
+* _If you'd like to alter or see the code for the project, after downloading open the project up in your favorite code editor._
+
+## Known Bugs
+
+_Nothing known at this time, but its just getting started._
+
+## Support and contact details
+
+_If you have problems or would like to comment about something feel free to contact me at philipeskins@gmail.com_
+
+## Technologies Used
+
+_This website uses HTML, JavaScript, Bootstrap, React._
+
+### License
+
+*MIT*
+
+Copyright (c) 2019 **_Philip Eskins_**
+
+#Create-React-App stuff
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
