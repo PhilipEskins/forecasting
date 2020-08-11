@@ -6,7 +6,7 @@
 
 ## Description
 
-_This webapp was created to help assist with assisting how to better forecast how much time a customer is exptected to wait tell we can get a crew out to them._
+_This webapp was created to help assist with how to better forecast how much time a customer is expected to wait tell we can get a crew out to them._
 
 ## Process
 
@@ -41,7 +41,7 @@ _This website uses HTML, JavaScript, Bootstrap, React._
 
 Copyright (c) 2019 **_Philip Eskins_**
 
-#Create-React-App stuff
+# Create-React-App stuff
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
