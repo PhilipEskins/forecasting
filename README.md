@@ -39,7 +39,7 @@ _This website uses HTML, JavaScript, Bootstrap, React._
 
 *MIT*
 
-Copyright (c) 2019 **_Philip Eskins_**
+Copyright (c) 2020 **_Philip Eskins_**
 
 # Create-React-App stuff
 
