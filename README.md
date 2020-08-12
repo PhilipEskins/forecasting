@@ -10,6 +10,9 @@ _This webapp was created to help assist with how to better forecast how much tim
 
 ## Process
 
+#### 8/11/2020
+_Added data for list.html and settings.html._
+
 #### 8/10/2020
 _Started building the framework for v1.0 in html, can be found in the html folder._
 
