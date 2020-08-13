@@ -10,6 +10,9 @@ _This webapp was created to help assist with how to better forecast how much tim
 
 ## Process
 
+#### 8/12/2020
+_Showed html prototype to manager and he liked it. Did some research and might switch to google sheets instead of building a new web app._
+
 #### 8/11/2020
 _Added data for list.html and settings.html._
 
